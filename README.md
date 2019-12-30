@@ -31,9 +31,11 @@ User Stories define who, why, and what for what we're creating.
 
 Be specific about your focus, and keep it simple. An example for an astronomy matching game:
 
-Who: 6-12 year olds, teachers & parents, astronomy Geeks
-Why: Make STEM fun and accessible while learning basic astronomy
-What: Fun & easy to play game of concentration based on basic astronomy including stars, planets, and fun facts about space
+**Who:** 6-12 year olds, teachers & parents, astronomy Geeks
+
+**Why:** Make STEM fun and accessible while learning basic astronomy
+
+**What:** Fun & easy to play game of concentration based on basic astronomy including stars, planets, and fun facts about space
 
 ## Wireframes
 
@@ -43,7 +45,7 @@ Wireframes are simple. They typically lack typography, color, and graphics. This
 
 [A Beginner's Guide to Wireframes](https://webdesign.tutsplus.com/articles/a-beginners-guide-to-wireframing--webdesign-7399)
 
-They can be done [online](https://www.invisionapp.com/), using software ([Sketch](https://www.sketch.com/), [Keynote](https://apps.apple.com/us/app/keynote/id361285480), [InDesign](https://www.adobe.com/products/indesign.html?sdid=KKQLR&mv=search&ef_id=EAIaIQobChMIpfPesvnd5gIVkIbACh2vOQNrEAAYASAAEgKT9_D_BwE:G:s&s_kwcid=AL!3085!3!332993077121!e!!g!!indesign&gclid=EAIaIQobChMIpfPesvnd5gIVkIbACh2vOQNrEAAYASAAEgKT9_D_BwE)), or by hand.
+They can be done online ([Invision](https://www.invisionapp.com/), [Balsamiq](https://balsamiq.com/)), using software ([Sketch](https://www.sketch.com/), [Keynote](https://apps.apple.com/us/app/keynote/id361285480), [InDesign](https://www.adobe.com/products/indesign.html?sdid=KKQLR&mv=search&ef_id=EAIaIQobChMIpfPesvnd5gIVkIbACh2vOQNrEAAYASAAEgKT9_D_BwE:G:s&s_kwcid=AL!3085!3!332993077121!e!!g!!indesign&gclid=EAIaIQobChMIpfPesvnd5gIVkIbACh2vOQNrEAAYASAAEgKT9_D_BwE)), or by hand.
 
 #### By Hand
 
@@ -61,3 +63,23 @@ They can be done [online](https://www.invisionapp.com/), using software ([Sketch
 Watch this video: ["Design for Non-Designers" by Tracy Osborn](https://youtu.be/lsPrhA_m6ss)
 
 We'll be back in 26 minutes to discuss.
+
+## Design Inspiration
+
+[Awwards](https://www.awwwards.com/)
+
+[Behance](https://www.behance.net/galleries/interaction)
+
+[Site Inspire](https://www.siteinspire.com/)
+
+## Additional Resources
+
+[The Design of Everyday Things](https://www.amazon.com/dp/0465050654/ref=cm_sw_r_cp_ep_dp_5Gs5zbAR6G80R)
+
+[User Interface Design Patters](http://ui-patterns.com/patterns)
+
+
+## [License](https://git.generalassemb.ly/seir-129/js-control-flow/blob/master/LICENSE)
+
+All content is licensed under a CC­BY­NC­SA 4.0 license.
+All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
