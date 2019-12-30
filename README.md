@@ -78,8 +78,7 @@ We'll be back in 26 minutes to discuss.
 
 [User Interface Design Patters](http://ui-patterns.com/patterns)
 
-
 ## [License](https://git.generalassemb.ly/seir-129/js-control-flow/blob/master/LICENSE)
 
-All content is licensed under a CC­BY­NC­SA 4.0 license.
-All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
+- All content is licensed under a CC­BY­NC­SA 4.0 license.
+- All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
