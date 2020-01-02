@@ -66,7 +66,7 @@ We'll be back in 26 minutes to discuss.
 
 ## Design Inspiration
 
-[Awwards](https://www.awwwards.com/)
+[Awwwards](https://www.awwwards.com/)
 
 [Behance](https://www.behance.net/galleries/interaction)
 
